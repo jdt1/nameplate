@@ -1,0 +1,22 @@
+    (Net "Net {netnumber}"
+      (Enabled "Y")
+      (ActivePoint 0)
+      (ActiveLine -1)
+      (Number {netnumber})
+      (RouteMode 0)
+      (Width 1.05)
+      (Clearance 0.6)
+      (ViaSize 2.1)
+      (ViaRing 0.45)
+      (ThroughVia "Y")
+      (HideConnections "N")
+      (Locked "N")
+      (ShowLength "N")
+      (CustomColor "N")
+      (TraceColor 0)
+      (NetClass 0)
+      (Component
+      )
+      (Lines
+      )
+    )

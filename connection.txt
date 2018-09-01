@@ -1,0 +1,1 @@
+    (Connection "Y" 0 100 50 20 {nr1} {nr2} 0 0 "N")

@@ -1,0 +1,18 @@
+        (Line
+          (Connect1 -1)
+          (ConnectL1 -1)
+          (ConnectP1 -1)
+          (Connect2 -1)
+          (ConnectP2 -1)
+          (ConnectL2 0)
+          (ConnectedToLine1 "N")
+          (ConnectedToLine2 "N")
+          (FreeEnd1 "Y")
+          (FreeEnd21 "Y")
+          (Selected "N")
+          (Group -1)
+          (OldNumber 0)
+          (PairLine_Link -1)
+          (ConnectMode1 -1)
+          (ConnectMode2 -1)
+          (Points
