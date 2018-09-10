@@ -1,18 +1,18 @@
 G04 DipTrace 3.0.0.1*
 G04 BottomMask.gbr*
-%MOIN*%
+%MOMM*%
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.Part,Single*
-%ADD16C,0.15748*%
-%FSLAX26Y26*%
+%ADD16C,4.0*%
+%FSLAX35Y35*%
 G04*
-G70*
+G71*
 G90*
 G75*
 G01*
 G04 BotMask*
 %LPD*%
 D16*
-X1015906Y1249501D3*
-X7590709D3*
+X2580400Y3173733D3*
+X19280400D3*
 M02*
