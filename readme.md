@@ -6,9 +6,9 @@ For details, see http://jdtengineering.nl/electronics/creating-a-pcb-name-plate-
 
 
 ### Dependencies
-Python 3.6 (for f-strings)
-jupyter
-matplotlib
+- Python 3.6 (for f-strings)
+- jupyter
+- matplotlib
 
 ### How to use
 - Run generate_pcbs.ipynb
